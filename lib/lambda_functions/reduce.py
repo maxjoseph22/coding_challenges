@@ -14,3 +14,5 @@ def product_of_numbers(numbers):
 
 def find_longest_string(strings):
     return reduce(lambda x, y : x if len(x) > len(y) else y, strings)
+
+#welcome back, let's do this!
